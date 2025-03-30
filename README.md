@@ -18,4 +18,4 @@ npm start
 
 - `/src/features`: Feature-specific modules (auth, videos, forum, etc.)
 - `/docs`: Documentation for keeping track of progress
-- `/public`: Static assets and HTML root
+- `/public`: Static assets and HTML root# Bloom
